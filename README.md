@@ -1,3 +1,4 @@
+![Untitled](https://user-images.githubusercontent.com/18587383/120986811-8e90f180-c7af-11eb-857f-bca4572f9768.gif)
 # ExpandLab
 可展开的Label控件
 使用：IOS11+
